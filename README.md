@@ -1,4 +1,4 @@
-# SqlTextSearchTool
+# Sql Text Search Tool
 
 A simple and efficient C# console application that scans all `varchar` and `nvarchar` columns in a SQL Server database to find where a specific text value appears.
 
